@@ -44,6 +44,7 @@ export default function Timer() {
     setHours(initialVal);
     setMinutes(initialVal);
     setSeconds(initialVal);
+    setDays(initialVal);
   }
 
   const secondChangeHandler = (event) => {
