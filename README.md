@@ -1,6 +1,28 @@
-
 # Countdown-Timer
+
+**Countdown Timer React Component**
+
 This repository contains a customizable and reusable Countdown Timer React component that you can easily integrate into your web applications.
+
+**Key Features:**
+
+- **Countdown Configuration**: Set the initial time, countdown duration, and custom labels.
+- **Callbacks**: Trigger custom functions when the countdown starts, pause, and ends.
+- **Pause and Resume**: Pause and resume the timer as needed.
+- **Styling**: Style the timer display to match your application's design.
+- **Flexible Usage**: Suitable for various use cases, from event reminders to time-limited promotions.
+- **React Compatibility**: Built using React, making it easy to incorporate into your React applications.
+
+**Getting Started:**
+
+1. Clone or download the repository.
+2. Install the necessary dependencies.
+3. Import the Countdown Timer component into your project.
+4. Customize and integrate it with your application.
+
+Visit the Wiki for detailed documentation and usage examples.
+
+Feel free to contribute, report issues, or suggest enhancements. Happy counting down!
 
 # Getting Started with Create React App
 
@@ -72,4 +94,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> a136cf8 (Second commit)
+
+> > > > > > > a136cf8 (Second commit)
